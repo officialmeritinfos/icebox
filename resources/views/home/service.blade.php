@@ -106,7 +106,6 @@
                 </div>
 
 
-
                 <!-- Service Block One -->
                 <div class="service-block_one col-lg-4 col-md-6 col-sm-12">
                     <div class="service-block_one-inner wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
@@ -128,6 +127,7 @@
                         </div>
                     </div>
                 </div>
+
 
             </div>
 
