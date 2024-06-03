@@ -161,7 +161,7 @@
 
             <div class="feature-carousel owl-carousel owl-theme">
 
-                
+
 
                 <!-- Feature Block One -->
                 <div class="feature-block_one">
@@ -527,7 +527,7 @@
                     </div>
                 </div>
 
-                
+
 
 
                 <!-- Service Block One -->
@@ -563,7 +563,7 @@
                         <div class="service-block_one-icon flaticon-shuttle"></div>
                         <h5 class="service-block_one-heading">Investment Policy</h5>
                         <div class="service-block_one-text">
-                            Investments in our Starter Plan minimum is limited to only twice. This means, you will need to  upgrade to another package after reinvesting twice on the Starter package.
+                            We allow unlimited investments in any package of your choice. However, increasing your capital increases your earnings.
                         </div>
                         <div class="service-block_one-overlay" style="background-image:url({{asset('home/images/resource/rpa.jpeg')}})">
                             <div class="service-block_one-overlay-inner">
@@ -572,8 +572,7 @@
                                     <h5 class="service-block_one-heading-two"><a href="#">Investment Policy</a></h5>
                                 </div>
                                 <div class="service-block_one-text-two">
-                                    Investments in our Starter Plan minimum is limited to once. This means, you will need to increase
-                                    your investment capital if you desire to keep investing the Starter Plan.
+                                    We allow unlimited investments in any package of your choice. However, increasing your capital increases your earnings.
                                 </div>
                             </div>
                         </div>
